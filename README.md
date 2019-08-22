@@ -1,5 +1,5 @@
 # GeoGet is an interactive intelligence based for web interfaces, PC using cmd & Smartphone Devices by Termux, for finding locations, by sending urlon.
-# Like IPLOGGER/LOCATION-POINT
+# As IPLOGGER/LOCATION-POINT
 
 
 # This tool have these components
