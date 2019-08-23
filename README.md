@@ -4,6 +4,11 @@
 
 # This tool have these components
 
+
+EXTRACT FROM BASH UBUNTU
+
+tar -xvf geosint.tar
+
 BOOTSTRAP
 CSS
 JS
