@@ -2,17 +2,11 @@
 # As IPLOGGER/LOCATION-POINT
 
 
-# This tool have these components
+# This tool have these components ( BOOTSTRAP CSS JS JQUERY JQUERYUI PYTHON3 NGROK )
 
 
-EXTRACT FROM BASH UBUNTU
+# EXTRACT FROM BASH UBUNTU
 
-tar -xvf geosint.tar
+# tar -xvf geosint.tar
 
-BOOTSTRAP
-CSS
-JS
-JQUERY
-JQUERYUI
-PYTHON3
-NGROK
+
